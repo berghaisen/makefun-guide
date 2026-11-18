@@ -1,0 +1,13 @@
+# secrets and local artifacts
+.env
+.env.*
+*.key
+keypair*.json
+*keypair.json
+transcripts.tar.gz
+node_modules/
+.playwright/
+
+# OS noise
+Thumbs.db
+.DS_Store
